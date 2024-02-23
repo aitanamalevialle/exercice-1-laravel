@@ -1,0 +1,1 @@
+Cet exercice a été réalisé dans le cadre du cours "Cadriciel Web". L'objectif était de créer un site Web statique avec Laravel, impliquant diverses tâches telles que la création de routes, l'utilisation de fichiers Blade, la gestion de formulaires et la publication sur un serveur à distance (WebDev). J'ai choisi de réaliser un site vitrine pour un magasin de plantes : Pachamama. 
